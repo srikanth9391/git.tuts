@@ -1,0 +1,1 @@
+print("iam not a normal man")
